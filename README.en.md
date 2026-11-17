@@ -5,7 +5,7 @@
 <p align="center"><strong>Build shared understanding, then move the work forward.</strong></p>
 <p align="center">Chinese project name: DSH协作助手 · In-app name: DSH 协作导航 · Actively maintained</p>
 
-<p align="center"><a href="https://github.com/X-Roman-666/dsh-collaborator/releases/latest">Download & install</a> · <a href="#what-it-helps-you-do">Features</a> · <a href="#try-a-real-conversation">Example</a> · <a href="https://github.com/X-Roman-666/dsh-collaborator/issues">Issues & suggestions</a></p>
+<p align="center"><a href="https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases/latest">Download & install</a> · <a href="#what-it-helps-you-do">Features</a> · <a href="#try-a-real-conversation">Example</a> · <a href="https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/issues">Issues & suggestions</a></p>
 
 ![Comic: the AI adds features while the user struggles to explain their intent. Chinese-language artwork.](./assets/poster-comic.png)
 
@@ -30,7 +30,7 @@ Useful for exploring a new field, planning research, comparing approaches, and d
 
 ## Download and install
 
-**Package: [dsh-collaborator-0.1.5.tgz](https://github.com/X-Roman-666/dsh-collaborator/releases/download/v0.1.5/dsh-collaborator-0.1.5.tgz)** · [All releases](https://github.com/X-Roman-666/dsh-collaborator/releases) · [Repository mirror](https://github.com/X-Roman-666/dsh-collaborator/raw/refs/heads/main/downloads/dsh-collaborator-0.1.5.tgz)
+**Package: [dsh-collaborator-0.1.5.tgz](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases/download/v0.1.5/dsh-collaborator-0.1.5.tgz)** · [All releases](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases) · [Repository mirror](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/raw/refs/heads/main/downloads/dsh-collaborator-0.1.5.tgz)
 
 Requires a **DeepSeek Harness (DSH) 0.2.2 prerelease**. Service integration tests cover `0.2.2-rc.1` and `0.2.2-rc.3`; the declared range is `>=0.2.2-rc.1 <0.2.3`.
 
@@ -106,6 +106,6 @@ npm pack
 
 Entry point: [src/index.js](./src/index.js). Guidance: [prompts/collaborator.md](./prompts/collaborator.md). Details: [Chinese development guide](./docs/DEVELOPMENT.zh-CN.md). Changes: [CHANGELOG.md](./CHANGELOG.md).
 
-Report issues with your DSH version, loaded plugin version, reproduction steps, and relevant errors in [Issues](https://github.com/X-Roman-666/dsh-collaborator/issues). For behavior feedback, share an example with private details removed and describe the expected explanation or action.
+Report issues with your DSH version, loaded plugin version, reproduction steps, and relevant errors in [Issues](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/issues). For behavior feedback, share an example with private details removed and describe the expected explanation or action.
 
 **Actively maintained.** The package declares `UNLICENSED`; this repository does not yet grant an open-source license.

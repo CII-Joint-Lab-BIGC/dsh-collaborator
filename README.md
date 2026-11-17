@@ -5,7 +5,7 @@
 <p align="center"><strong>先理解，再推进。让 DeepSeek Harness 更懂你的项目，也让你更清楚下一步。</strong></p>
 <p align="center">插件内名称：DSH 协作导航 · DSH Collaborator · 持续更新维护中</p>
 
-<p align="center"><a href="https://github.com/X-Roman-666/dsh-collaborator/releases/latest">下载安装</a> · <a href="#它能帮你做什么">功能介绍</a> · <a href="#试一次真实对话">对话示例</a> · <a href="https://github.com/X-Roman-666/dsh-collaborator/issues">问题与建议</a></p>
+<p align="center"><a href="https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases/latest">下载安装</a> · <a href="#它能帮你做什么">功能介绍</a> · <a href="#试一次真实对话">对话示例</a> · <a href="https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/issues">问题与建议</a></p>
 
 ![AI 忙了半天，你还在原地生气？](./assets/poster-comic.png)
 
@@ -30,7 +30,7 @@
 
 ## 下载与安装
 
-**安装包：[dsh-collaborator-0.1.5.tgz](https://github.com/X-Roman-666/dsh-collaborator/releases/download/v0.1.5/dsh-collaborator-0.1.5.tgz)** · [所有版本](https://github.com/X-Roman-666/dsh-collaborator/releases) · [备用下载](https://github.com/X-Roman-666/dsh-collaborator/raw/refs/heads/main/downloads/dsh-collaborator-0.1.5.tgz)
+**安装包：[dsh-collaborator-0.1.5.tgz](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases/download/v0.1.5/dsh-collaborator-0.1.5.tgz)** · [所有版本](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/releases) · [备用下载](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/raw/refs/heads/main/downloads/dsh-collaborator-0.1.5.tgz)
 
 运行于 **DeepSeek Harness（DSH）0.2.2 预发布版**；服务集成测试覆盖 `0.2.2-rc.1` 和 `0.2.2-rc.3`。声明的兼容范围为 `>=0.2.2-rc.1 <0.2.3`。
 
@@ -106,6 +106,6 @@ npm pack
 
 实现入口：[src/index.js](./src/index.js)；协作规则：[prompts/collaborator.md](./prompts/collaborator.md)；详细说明：[开发说明](./docs/DEVELOPMENT.zh-CN.md)；更新记录：[CHANGELOG.md](./CHANGELOG.md)。
 
-遇到问题，请在 [Issues](https://github.com/X-Roman-666/dsh-collaborator/issues) 提供 DSH 版本、插件实际加载版本、复现步骤和相关报错。对话效果反馈可以提供去除私密内容后的示例，说明你期待的讲解或行动。
+遇到问题，请在 [Issues](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/issues) 提供 DSH 版本、插件实际加载版本、复现步骤和相关报错。对话效果反馈可以提供去除私密内容后的示例，说明你期待的讲解或行动。
 
 **持续更新维护中。** 当前包的许可声明为 `UNLICENSED`，本仓库尚未授予开源许可。

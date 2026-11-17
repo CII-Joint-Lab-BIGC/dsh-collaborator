@@ -16,6 +16,6 @@ Help DeepSeek Harness build shared understanding and move projects forward throu
 
 SHA-256: `71140d10128bb2be96917f693656e19f28abd9657bf237f232377e46b8ef87fd`
 
-[简体中文](https://github.com/X-Roman-666/dsh-collaborator#readme) · [English](https://github.com/X-Roman-666/dsh-collaborator/blob/main/README.en.md)
+[简体中文](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator#readme) · [English](https://github.com/CII-Joint-Lab-BIGC/dsh-collaborator/blob/main/README.en.md)
 
 持续更新维护中 / Actively maintained.

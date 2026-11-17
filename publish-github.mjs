@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
 
 const root = dirname(fileURLToPath(import.meta.url));
-const repository = 'X-Roman-666/dsh-collaborator';
+const repository = 'CII-Joint-Lab-BIGC/dsh-collaborator';
 const repositoryUrl = `https://github.com/${repository}`;
 const version = '0.1.5';
 const tag = `v${version}`;
@@ -20,7 +20,7 @@ if (args.some(arg => arg !== '--check')) throw new Error('Only the optional --ch
 const checkOnly = args.includes('--check');
 const paths = [
   '.gitignore', 'README.md', 'README.en.md', 'CHANGELOG.md', 'package.json',
-  'cordis.patch.yml', 'publish-github.mjs', 'src/index.js', 'src/state.js',
+  'cordis.patch.yml', 'publish-github.mjs', 'screenshots.json', 'src/index.js', 'src/state.js',
   'src/interaction.js', 'prompts/collaborator.md', 'tests/integration.test.js',
   'tests/interaction.test.js', 'examples/acceptance.md',
   'docs/DEVELOPMENT.zh-CN.md', 'docs/RELEASE_0.1.5.md', 'downloads/SHA256SUMS',
