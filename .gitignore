@@ -1,0 +1,10 @@
+node_modules/
+.work/
+*.tgz
+!downloads/dsh-collaborator-0.1.5.tgz
+.codex/
+NVIDIA Corporation/
+.env
+.env.*
+!.env.example
+coverage/
